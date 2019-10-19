@@ -10,19 +10,23 @@ users.
 4. A mechanism, shown as a menu item, to change the background of the message
 window by one user which will also be reflected in the message window of the other
 user.
+5. Show IP addess.
 
 # Using Process:
-1. Enter port number of own device.
-2. Click "START" button for both device.
-3. Enter ip address of counterpart system of the other user.
-4. Enter port number of counterpart system of the other user.
-5. Click "CONNECT" button for both device.
+1. Click the "CLICK" button to see IP address of your device.
+2.Click "START" button.
+3. Enter port number of own device.
+4. Click "START SERVER" button for both device.
+5. Enter ip address of counterpart system of the other user.
+6. Enter port number of counterpart system of the other user.
+7. Click "CONNECT" button for both device.
    After these connection will be created between two devices.
   For sending message:
 6. Type message and click "SEND" button.
 7. The "menubar" will provide 3 services:
-  * Save:save the chat messages
+  * Save Messages:save the chat messages
   * Background:Change background color
+  * Send file: send a textual fife 
 
  # Team Work:
    we have done these work sitting together.In every single part of the project,we have discussed ,created together.
